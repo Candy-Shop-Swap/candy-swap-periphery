@@ -1,6 +1,6 @@
 pragma solidity =0.6.6;
 
-import '@candyswap/candy-swap-core/contracts/interfaces/ICandyFactory.sol';
+import '@candyswap-libs/candy-swap-core/contracts/interfaces/ICandyFactory.sol';
 import '@uniswap/lib/contracts/libraries/TransferHelper.sol';
 
 import './libraries/CandyLibrary.sol';

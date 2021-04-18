@@ -4,8 +4,8 @@ import { deployContract } from 'ethereum-waffle'
 
 import { expandTo18Decimals } from './utilities'
 
-import CandyFactory from '@candyswap/candy-swap-core/build/CandyFactory.json'
-import ICandyPair from '@candyswap/candy-swap-core/build/ICandyPair.json'
+import CandyFactory from '@candyswap-libs/candy-swap-core/build/CandyFactory.json'
+import ICandyPair from '@candyswap-libs/candy-swap-core/build/ICandyPair.json'
 
 import ERC20 from '../../build/ERC20.json'
 import WETH9 from '../../build/WETH9.json'

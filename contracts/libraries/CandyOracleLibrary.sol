@@ -1,6 +1,6 @@
 pragma solidity >=0.5.0;
 
-import '@candyswap/candy-swap-core/contracts/interfaces/ICandyPair.sol';
+import '@candyswap-libs/candy-swap-core/contracts/interfaces/ICandyPair.sol';
 import '@uniswap/lib/contracts/libraries/FixedPoint.sol';
 
 // library with helper methods for oracles that are concerned with computing average prices

@@ -1,6 +1,6 @@
 pragma solidity =0.6.6;
 
-import '@candyswap/candy-swap-core/contracts/interfaces/ICandyCallee.sol';
+import '@candyswap-libs/candy-swap-core/contracts/interfaces/ICandyCallee.sol';
 
 import '../libraries/CandyLibrary.sol';
 import '../interfaces/V1/IUniswapV1Factory.sol';

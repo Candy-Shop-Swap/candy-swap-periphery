@@ -1,7 +1,7 @@
 pragma solidity =0.6.6;
 
-import '@candyswap/candy-swap-core/contracts/interfaces/ICandyFactory.sol';
-import '@candyswap/candy-swap-core/contracts/interfaces/ICandyPair.sol';
+import '@candyswap-libs/candy-swap-core/contracts/interfaces/ICandyFactory.sol';
+import '@candyswap-libs/candy-swap-core/contracts/interfaces/ICandyPair.sol';
 import '@uniswap/lib/contracts/libraries/FixedPoint.sol';
 
 import '../libraries/CandyOracleLibrary.sol';
