@@ -5,7 +5,7 @@
   "engines": {
     "node": ">=10"
   },
-  "homepage": "https://candyswap.finance",
+  "homepage": "https://candyswap.online",
   "repository": {
     "type": "git",
     "url": "https://github.com/Candy-Shop-Swap/candy-swap-periphery.git"
